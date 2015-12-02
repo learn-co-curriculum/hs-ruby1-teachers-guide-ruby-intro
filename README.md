@@ -138,3 +138,5 @@ puts “hello #{name}”
 
 ### Hints and Hurdles
 + To show students how strings can be comprised of all different kinds of characters, you can use the example of `"ke$ha"`. Students always chuckle at this one.
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ruby-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
